@@ -17,7 +17,3 @@ This is all of file for Dell 7447 - core i7 Haswell 4510HQ- HD4600 - NVIDIA GTX 
 - Copy EFI directory for clover
 - Use Kext for enable all kext for dell 7447
 - Install wifi if you use usb wifi
-
-# Contribute
-
-I'm so appreciate with your respect : tomle.zaku@gmail.com
